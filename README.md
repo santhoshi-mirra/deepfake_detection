@@ -7,5 +7,9 @@ Current features:
 
 Planned additions:
 - Temporal confidence visualization
+- Failure analysis
+- Video level prediction
+- Explainability consistency
 - Grad-CAM explainability
 - Streamlit interface
+  
